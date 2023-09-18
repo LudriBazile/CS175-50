@@ -1,5 +1,11 @@
-COMMISSION_RATE_PURCHASE = float(input("Enter commission rate percentage on stock purchase: "))
-COMMISSION_RATE_SALE = float(input("Enter commission rate percentage on stock sale: "))
+#CS175
+#Ludrianna Bazile
+#stocks
+
+
+
+COMMISSION_RATE_PURCHASE = float(input("Enter commission rate percentage (ex 0.03) on stock purchase: "))
+COMMISSION_RATE_SALE = float(input("Enter commission rate percentage (ex 0.03) on stock sale: "))
 NUM_SHARES_PURCHASE = float(input("Enter the number of shares purchased: "))
 NUM_SHARES_SOLD = float(input("Enter the number of shares sold: "))
 PURCHASE_PRICE = float(input("Enter purchase price per share: "))

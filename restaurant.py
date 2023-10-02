@@ -24,6 +24,8 @@ if gluten_freeResponse == "yes":
 if gluten_freeResponse == "no" :
     gluten_free == False
 
+print("\n")
+
 print("Here are your restaurant choices.")
 
 

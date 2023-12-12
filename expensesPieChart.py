@@ -35,7 +35,7 @@ def main():
 
         label4 = expenseList[3]
         category4 = label4[0]
-        amount4 = (label4[1])
+        amount4 = int(label4[1])
 
         label5 = expenseList[4]
         category5 = label5[0]
